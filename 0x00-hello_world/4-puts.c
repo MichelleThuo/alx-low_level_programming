@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
  * main - Starting point of the program
  * Returns 0 if the program is successfully compiled
  */
