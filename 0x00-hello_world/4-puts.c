@@ -4,7 +4,6 @@
  * main - Starting point of the program
  * return: 0 if the program is successfully compiled
  */
-
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
