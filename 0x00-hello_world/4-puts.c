@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Starting point of the program
- * return: 0 if the program is successfully compiled
+ * main - prints "Programming is like
+ * building a multilingual puzzle"
+ * Return: 0 if successfully compiled, non-zero otherwise
  */
 int main(void)
 {
