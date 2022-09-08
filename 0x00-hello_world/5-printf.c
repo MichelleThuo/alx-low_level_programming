@@ -1,10 +1,9 @@
 #include <stdio.h>
 
 /**
- * main: prints "with proper grammar,
- * but the outcome is a piece of art,"
- * as the output
- * return: 0 if the program is successfully compiled
+ * main - prints the phrase with proper grammar,
+ * but the outcome is a piece of art,
+ * Return: 0 if successfully compiled, non-zero otherwise
  */
 int main(void)
 {
