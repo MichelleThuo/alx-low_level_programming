@@ -2,7 +2,7 @@
 
 /**
  * main - Starting point of the program
- * Returns 0 if the program is successfully compiled
+ * return: 0 if the program is successfully compiled
  */
 
 int main(void)
