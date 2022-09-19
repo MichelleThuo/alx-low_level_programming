@@ -1,5 +1,7 @@
 File Descriptions
+
 Mandatory
+
 0-reset_to_98.c - function that takes a pointer to an int as parameter and updates the value it points to to 98.
 
 1-swap.c - function that swaps the values of two integers.
@@ -20,7 +22,9 @@ Mandatory
 
 9-strcpy.c - function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
 
+
 Advanced
+
 100-atoi.c - converts a string to an integer.
 
 101-keygen.c - generates random valid passwords for the program 101-crackme.
