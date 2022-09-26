@@ -2,13 +2,16 @@
 #include <stdio.h>
 
 /**
- * set_string - sets the value of a pointer to char
- * @s: the value to modify
- * @to: the value to assign
+ * set_string - sets the value of a pointer to a char
  *
- * Return: void
+ * @s: Double pointer
+ *
+ * @to: Pointer
+ *
+ * Return: Void
  */
+
 void set_string(char **s, char *to)
 {
-    *s = to;
+	*s = to;
 }
