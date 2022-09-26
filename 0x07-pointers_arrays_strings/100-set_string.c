@@ -2,11 +2,11 @@
 #include <stdio.h>
 
 /**
- * set_string - Sets the value of a pointer to char
+ * set_string - sets the value of a pointer to char
  * @s: the value to modify
  * @to: the value to assign
  *
- * Return: Nothing.
+ * Return: nothing
  */
 void set_string(char **s, char *to)
 {
